@@ -20,11 +20,11 @@ WeatherNewsApp is a modern, cross-platform mobile app built with Expo and React 
 
 ## Screenshots
 
-> assets/a.png
-> assets/b.png
-> assets/c.png
-> assets/d.png
-> assets/e.png
+>![App weather](assets/a.png)
+> ![App news](assets/b.png)
+>![App trending](assets/c.png)
+> ![App calendar](assets/d.png)
+>![App settings](assets/e.png)
 
 ---
 
